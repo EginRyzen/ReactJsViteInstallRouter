@@ -17,12 +17,25 @@ Currently, two official plugins are available:
   Home.jsx
 
    ```php
-   $export default function Home() {
+   export default function Home() {
     return (
       <div>
         <h1>Home</h1>
         <p>Welcome to our home page!</p>
       </div>
     )
-  }
+    }
   ```
+
+  About.jsx
+
+```php
+export default function About() {
+  return (
+    <div>
+      <h1>About</h1>
+      <p>Learn more about us!</p>
+    </div>
+  )
+}
+```
