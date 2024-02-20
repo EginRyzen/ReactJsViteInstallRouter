@@ -11,18 +11,18 @@ Currently, two official plugins are available:
 1. Langkah Pertama
 
   ```bash
-  $ npm install react-router-dom
+  npm install react-router-dom
   ```
 2. Buat File Halaman Yang Akan Di Tampilkan
   Home.jsx
 
-   ```bash
+   ```php
    $export default function Home() {
-  return (
-    <div>
-      <h1>Home</h1>
-      <p>Welcome to our home page!</p>
-    </div>
+    return (
+      <div>
+        <h1>Home</h1>
+        <p>Welcome to our home page!</p>
+      </div>
     )
   }
   ```
