@@ -27,7 +27,8 @@ Currently, two official plugins are available:
     }
   ```
 <p>Abut.jsx</p>
-  ```php
+
+  ```js
   export default function About() {
     return (
       <div>
