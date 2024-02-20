@@ -14,7 +14,7 @@ Currently, two official plugins are available:
   npm install react-router-dom
   ```
 2. Buat File Halaman Yang Akan Di Tampilkan
-  Home.jsx
+  <p>Home.jsx</p>
 
    ```php
    export default function Home() {
@@ -26,16 +26,14 @@ Currently, two official plugins are available:
     )
     }
   ```
-
-  About.jsx
-
-```php
-export default function About() {
-  return (
-    <div>
-      <h1>About</h1>
-      <p>Learn more about us!</p>
-    </div>
-  )
-}
-```
+<p>Abut.jsx</p>
+  ```php
+  export default function About() {
+    return (
+      <div>
+        <h1>About</h1>
+        <p>Learn more about us!</p>
+      </div>
+    )
+  }
+  ```
