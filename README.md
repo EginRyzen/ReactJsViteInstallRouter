@@ -13,3 +13,16 @@ Currently, two official plugins are available:
   ```bash
   $ npm install react-router-dom
   ```
+2. Buat File Halaman Yang Akan Di Tampilkan
+  Home.jsx
+
+   ```bash
+   $export default function Home() {
+  return (
+    <div>
+      <h1>Home</h1>
+      <p>Welcome to our home page!</p>
+    </div>
+    )
+  }
+  ```
