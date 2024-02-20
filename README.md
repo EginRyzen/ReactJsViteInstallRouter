@@ -16,7 +16,7 @@ Currently, two official plugins are available:
 2. Buat File Halaman Yang Akan Di Tampilkan
   <p>Home.jsx</p>
 
-   ```php
+   ```js
    export default function Home() {
     return (
       <div>
