@@ -9,4 +9,7 @@ Currently, two official plugins are available:
 
 
 1. Langkah Pertama
-$ npm install react-router-dom
+
+  ```bash
+  $ npm install react-router-dom
+  ```
